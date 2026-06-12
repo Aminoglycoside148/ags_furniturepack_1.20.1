@@ -1,3 +1,7 @@
+An addon mod for Industrial hellscape that adds some more stuff.
+
+Some parts of code is AI-generated, however they were all manually reviewed and in many case re-written before being added to the final mod.
+
 
 Source installation information for modders
 -------------------------------------------
