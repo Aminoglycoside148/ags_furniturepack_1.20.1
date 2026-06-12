@@ -1,0 +1,6 @@
+{
+	"parent": "ags_furniturepack:block/desk_modern/desk_modern_white_right",
+	"textures": {
+		"0": "ags_furniturepack:block/desk_modern_black"
+	}
+}

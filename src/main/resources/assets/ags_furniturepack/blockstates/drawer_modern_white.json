@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "type=solo,facing=north": {"model": "ags_furniturepack:block/drawer_modern/drawer_modern_white_solo","y": 0},
+    "type=solo,facing=south": {"model": "ags_furniturepack:block/drawer_modern/drawer_modern_white_solo","y":180},
+    "type=solo,facing=east": {"model": "ags_furniturepack:block/drawer_modern/drawer_modern_white_solo","y": 90},
+    "type=solo,facing=west": {"model": "ags_furniturepack:block/drawer_modern/drawer_modern_white_solo","y": 270},
+
+    "type=positive,facing=north": {"model": "ags_furniturepack:block/drawer_modern/drawer_modern_white_left","y": 0},
+    "type=positive,facing=south": {"model": "ags_furniturepack:block/drawer_modern/drawer_modern_white_left","y": 180},
+    "type=positive,facing=east": {"model": "ags_furniturepack:block/drawer_modern/drawer_modern_white_left","y": 90},
+    "type=positive,facing=west": {"model": "ags_furniturepack:block/drawer_modern/drawer_modern_white_left","y": 270},
+
+    "type=middle,facing=north": {"model": "ags_furniturepack:block/drawer_modern/drawer_modern_white_center","y": 0},
+    "type=middle,facing=south": {"model": "ags_furniturepack:block/drawer_modern/drawer_modern_white_center","y": 180},
+    "type=middle,facing=east": {"model": "ags_furniturepack:block/drawer_modern/drawer_modern_white_center", "y": 90},
+    "type=middle,facing=west": {"model": "ags_furniturepack:block/drawer_modern/drawer_modern_white_center","y": 270},
+
+    "type=negative,facing=north": {"model": "ags_furniturepack:block/drawer_modern/drawer_modern_white_right","y": 0},
+    "type=negative,facing=south": {"model": "ags_furniturepack:block/drawer_modern/drawer_modern_white_right","y": 180},
+    "type=negative,facing=east": {"model": "ags_furniturepack:block/drawer_modern/drawer_modern_white_right","y": 90},
+    "type=negative,facing=west": {"model": "ags_furniturepack:block/drawer_modern/drawer_modern_white_right","y": 270}
+  }
+}

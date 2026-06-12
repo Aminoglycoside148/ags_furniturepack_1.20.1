@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "ags_furniturepack:chair_basic_armchair_black"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "ags_furniturepack:blocks/chair_basic_armchair_black"
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "ags_furniturepack:block/drawer_modern/drawer_modern_white_center",
+	"textures": {
+		"0": "ags_furniturepack:block/drawer_1_short_solo_black"
+	}
+}

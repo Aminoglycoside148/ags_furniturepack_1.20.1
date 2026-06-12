@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "ags_furniturepack:block/folding/chair_folding_gray",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "ags_furniturepack:block/folding/chair_folding_gray"
+    },
+    "facing=south": {
+      "model": "ags_furniturepack:block/folding/chair_folding_gray",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ags_furniturepack:block/folding/chair_folding_gray",
+      "y": 270
+    }
+  }
+}

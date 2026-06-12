@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "ags_furniturepack:block/basic_theme/chair_basic",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "ags_furniturepack:block/basic_theme/chair_basic"
+    },
+    "facing=south": {
+      "model": "ags_furniturepack:block/basic_theme/chair_basic",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ags_furniturepack:block/basic_theme/chair_basic",
+      "y": 270
+    }
+  }
+}

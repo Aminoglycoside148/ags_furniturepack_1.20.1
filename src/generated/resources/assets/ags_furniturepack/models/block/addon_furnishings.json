@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "ags_furniturepack:block/furniture_category_block/addon_furnishings_up",
+    "east": "ags_furniturepack:block/furniture_category_block/addon_furnishings_west",
+    "north": "ags_furniturepack:block/furniture_category_block/addon_furnishings_north",
+    "particle": "ags_furniturepack:block/furniture_category_block/addon_furnishings_up",
+    "south": "ags_furniturepack:block/furniture_category_block/addon_furnishings_north",
+    "up": "ags_furniturepack:block/furniture_category_block/addon_furnishings_up",
+    "west": "ags_furniturepack:block/furniture_category_block/addon_furnishings_west"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "north=false,south=false,east=false,west=false":{"model": "ags_furniturepack:block/diner/diner_table_solo"},
+
+    "north=false,south=true,east=false,west=false":{"model": "ags_furniturepack:block/diner/diner_table_end", "y": 0},
+    "north=false,south=false,east=false,west=true":{"model": "ags_furniturepack:block/diner/diner_table_end", "y": 90},
+    "north=true,south=false,east=false,west=false":{"model": "ags_furniturepack:block/diner/diner_table_end", "y": 180},
+    "north=false,south=false,east=true,west=false":{"model": "ags_furniturepack:block/diner/diner_table_end", "y": 270},
+
+    "north=false,south=true,east=false,west=true":{"model": "ags_furniturepack:block/diner/diner_table_corner", "y": 0},
+    "north=true,south=false,east=false,west=true":{"model": "ags_furniturepack:block/diner/diner_table_corner", "y": 90},
+    "north=true,south=false,east=true,west=false":{"model": "ags_furniturepack:block/diner/diner_table_corner", "y": 180},
+    "north=false,south=true,east=true,west=false":{"model": "ags_furniturepack:block/diner/diner_table_corner", "y": 270},
+
+    "north=true,south=true,east=false,west=false":{"model": "ags_furniturepack:block/diner/diner_table_lane", "y": 0},
+    "north=false,south=false,east=true,west=true":{"model": "ags_furniturepack:block/diner/diner_table_lane", "y": 90},
+
+    "north=false,south=true,east=true,west=true":{"model": "ags_furniturepack:block/diner/diner_table_t", "y": 0},
+    "north=true,south=true,east=false,west=true":{"model": "ags_furniturepack:block/diner/diner_table_t", "y": 90},
+    "north=true,south=false,east=true,west=true":{"model": "ags_furniturepack:block/diner/diner_table_t", "y": 180},
+    "north=true,south=true,east=true,west=false":{"model": "ags_furniturepack:block/diner/diner_table_t", "y": 270},
+
+    "north=true,south=true,east=true,west=true":{"model": "ags_furniturepack:block/diner/diner_table_center"}
+  }
+}
