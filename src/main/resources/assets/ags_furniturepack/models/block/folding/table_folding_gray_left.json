@@ -4,7 +4,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "ags_furniturepack:block/table_folding_gray",
-		"particle": "ags_furniturepack:block/table_folding_gray"
+		"particle": "ags_furniturepack:block/table_folding_gray_particle"
 	},
 	"elements": [
 		{

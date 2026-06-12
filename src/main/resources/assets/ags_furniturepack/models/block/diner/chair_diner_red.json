@@ -5,7 +5,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "ags_furniturepack:block/diner_stool_red",
-		"particle": "ags_furniturepack:block/diner_stool_red"
+		"particle": "ags_furniturepack:block/table_diner_red_particle"
 	},
 	"elements": [
 		{

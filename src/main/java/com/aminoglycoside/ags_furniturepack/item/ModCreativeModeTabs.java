@@ -15,7 +15,7 @@ public class ModCreativeModeTabs {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS =
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, AGSFurnitureMod.MODID);
 
-    public static final RegistryObject<CreativeModeTab> FLOOR_MARKING_TAB = CREATIVE_MODE_TABS.register("floor_markings_tab",
+    public static final RegistryObject<CreativeModeTab> AGS_FUNITURE_TAB = CREATIVE_MODE_TABS.register("ags_furniture_tab",
             () -> CreativeModeTab.builder()
                     .icon(() -> new ItemStack(ModBlocks.CHAIR_BASIC.get()))
                     .title(Component.translatable("creativetab.ags_furniture"))
@@ -25,7 +25,6 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModBlocks.CHAIR_BASIC.get());
                         pOutput.accept(ModBlocks.CHAIR_BASIC_ARMCHAIR.get());
                         pOutput.accept(ModBlocks.CHAIR_BASIC_ARMCHAIR_BLACK.get());
-                        pOutput.accept(ModBlocks.TEST_DESK.get());
                         pOutput.accept(ModBlocks.DRAWER_MODERN_WHITE.get());
                         pOutput.accept(ModBlocks.DRAWER_MODERN_BLACK.get());
                         pOutput.accept(ModBlocks.DESK_MODERN_WHITE.get());

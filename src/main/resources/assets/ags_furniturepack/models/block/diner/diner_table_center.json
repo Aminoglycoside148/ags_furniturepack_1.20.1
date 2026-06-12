@@ -4,7 +4,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "ags_furniturepack:block/diner_table_solo_red",
-		"particle": "ags_furniturepack:block/diner_table_solo_red"
+		"particle": "ags_furniturepack:block/table_diner_red_particle"
 	},
 	"elements": [
 		{

@@ -1,0 +1,32 @@
+{
+
+  "block.ags_furniturepack.addon_furnishings": "Addon Furnishings",
+  "block.ags_furniturepack.chair_basic": "Woodwork chair",
+  "block.ags_furniturepack.table_basic": "Woodwork table",
+  "block.ags_furniturepack.chair_basic_armchair_black": "Black Woodwork armchair",
+  "block.ags_furniturepack.chair_basic_armchair": "White Woodwork armchair",
+
+  "block.ags_furniturepack.chair_diner_red": "Diner chair",
+  "block.ags_furniturepack.table_diner_red": "Diner table",
+
+  "block.ags_furniturepack.chair_folding_gray": "Folding chair",
+  "block.ags_furniturepack.table_folding_gray": "Folding table",
+
+  "block.ags_furniturepack.chair_modern": "Modern chair",
+  "block.ags_furniturepack.table_modern": "Modern table",
+
+  "block.ags_furniturepack.desk_modern_white": "White Modern Desk",
+  "block.ags_furniturepack.desk_modern_black": "Black Modern Desk",
+
+  "block.ags_furniturepack.drawer_modern_white": "White Modern Drawer",
+  "block.ags_furniturepack.drawer_modern_black": "Black Modern Drawer",
+
+  "block.ags_furniturepack.drawer_modern_white_tall": "Tall White Modern Drawer",
+  "block.ags_furniturepack.drawer_modern_black_tall": "Tall Black Modern Drawer",
+
+  "block.ags_furniturepack.glass_railing": "Glass Railing",
+  "block.ags_furniturepack.glass_stair_railing": "Glass Stair Railing",
+
+  "gui.ags_furniturepack.creative_tab": "Additional Hellscape",
+  "creativetab.ags_furniture": "Additional Hellscape"
+}
